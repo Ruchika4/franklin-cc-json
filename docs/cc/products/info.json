@@ -69,5 +69,16 @@
         "09-18": "masonry",
         "10-18": "merchblock",
         "11-18": "iconblock"
+    },
+    "https://www.adobe.com/products/audition.html": {
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-14": "spacer",
+        "03-14": "marquee",
+        "04-14": "cards",
+        "05-14": "spacer",
+        "06-15": "cards",
+        "07-15": "merchblock",
+        "08-15": "accordion"
     }
 }
