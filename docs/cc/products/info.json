@@ -1,0 +1,24 @@
+{
+    "https://www.adobe.com/products/illustrator.html": {
+        "00-38": "marquee",
+        "01-38": "iconblock",
+        "02-40": "spacer",
+        "03-46": "zpattern",
+        "04-46": "marquee",
+        "05-46": "zpattern",
+        "06-46": "zpattern",
+        "07-46": "text",
+        "08-46": "cards",
+        "09-52": "cards",
+        "10-52": "masonry",
+        "11-52": "accordion",
+        "12-52": "merchblock",
+        "13-52": "iconblock",
+        "14-52": "accordion"
+    },
+    "https://www.adobe.com/products/photoshop.html": {
+        "00-32": "marquee",
+        "01-38": "iconblock",
+        "02-47": "zpattern"
+    }
+}
