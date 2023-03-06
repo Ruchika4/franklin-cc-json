@@ -55,5 +55,19 @@
         "19-68": "marquee",
         "20-68": "merchblock",
         "21-68": "iconblock"
+    },
+    "https://www.adobe.com/products/animate.html": {
+        "00-8": "marquee",
+        "01-17": "text",
+        "02-17": "spacer",
+        "03-17": "zpattern",
+        "04-17": "spacer",
+        "05-17": "zpattern",
+        "06-17": "spacer",
+        "07-17": "zpattern",
+        "08-18": "cards",
+        "09-18": "masonry",
+        "10-18": "merchblock",
+        "11-18": "iconblock"
     }
 }
