@@ -1,1 +1,18 @@
-{"name":"import"}
+{
+    "https://www.adobe.com/products/photoshop.html": {
+        "01-a2b9a770-82e8-420b-9eea-9a35a4d0d4cd-32": "marquee",
+        "02-517c1494-ff60-4efe-863a-6a54620dbf67-38": "iconblock",
+        "03-b17f6cb1-1299-4a30-8a27-3e1512f3044a-47": "marquee",
+        "04-69df5fef-d629-4a11-9a3a-13496c149fe9-47": "marquee",
+        "05-84dd0d4b-5fde-4448-850e-3f3b34933a42-47": "marquee",
+        "06-c43e9cd8-25e9-46c3-971c-4f02ae1503dd-47": "marquee",
+        "07-8da981af-b831-453b-8733-b3ff2cc81c04-47": "marquee",
+        "08-0f48bce6-31d7-42f2-8150-78b4d22d49dc-48": "aside",
+        "09-27d46fae-07db-4103-8ffe-5b2fe6f5e46e-48": "masonry",
+        "10-52dba4db-b33f-4acc-83bc-f16336015f48-48": "masonry",
+        "11-b5bac7a2-077b-4ad0-a58d-2b5969eef559-48": "accordion",
+        "12-666f948d-efaf-4f14-ab3a-d8b7920dbfd6-48": "merchblock",
+        "13-f9a8ec04-d894-4f50-a4c2-c4279d8a9b7e-48": "iconblock",
+        "14-6d9597ee-4549-411c-a604-a6f792053d85-48": "accordion"
+    }
+}
