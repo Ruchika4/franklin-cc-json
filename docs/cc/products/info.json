@@ -31,5 +31,29 @@
         "11-48": "merchblock",
         "12-55": "iconblock",
         "13-55": "accordion"
+    },
+    "https://www.adobe.com/products/aftereffects.html": {
+        "00-32": "marquee",
+        "01-47": "text",
+        "02-47": "spacer",
+        "03-47": "zpattern",
+        "04-47": "spacer",
+        "05-47": "zpattern",
+        "06-47": "spacer",
+        "07-47": "zpattern",
+        "08-47": "spacer",
+        "09-47": "zpattern",
+        "10-47": "accordion",
+        "11-57": "masonry",
+        "12-60": "text",
+        "13-60": "marquee",
+        "14-60": "cards",
+        "15-60": "spacer",
+        "16-60": "button",
+        "17-61": "cards",
+        "18-68": "cards",
+        "19-68": "marquee",
+        "20-68": "merchblock",
+        "21-68": "iconblock"
     }
 }
