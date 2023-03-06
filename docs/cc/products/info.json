@@ -80,5 +80,29 @@
         "06-15": "cards",
         "07-15": "merchblock",
         "08-15": "accordion"
+    },
+    "https://www.adobe.com/products/character-animator.html": {
+        "00-8": "marquee",
+        "01-18": "marquee",
+        "02-18": "cards",
+        "03-18": "accordion",
+        "04-18": "cards",
+        "05-18": "spacer",
+        "06-18": "masonry",
+        "07-18": "merchblock",
+        "08-18": "iconblock"
+    },
+    "https://www.adobe.com/products/fresco.html": {
+        "00-8": "marquee",
+        "01-23": "text",
+        "02-23": "zpattern",
+        "03-23": "carousel",
+        "04-23": "zpattern",
+        "05-23": "zpattern",
+        "06-23": "zpattern",
+        "07-24": "accordion",
+        "08-24": "cards",
+        "09-31": "merchblock",
+        "10-31": "iconblock"
     }
 }
