@@ -19,6 +19,17 @@
     "https://www.adobe.com/products/photoshop.html": {
         "00-32": "marquee",
         "01-38": "iconblock",
-        "02-47": "zpattern"
+        "02-47": "zpattern",
+        "03-47": "zpattern",
+        "04-47": "zpattern",
+        "05-47": "zpattern",
+        "06-47": "zpattern",
+        "07-48": "aside",
+        "08-48": "masonry",
+        "09-48": "masonry",
+        "10-48": "accordion",
+        "11-48": "merchblock",
+        "12-55": "iconblock",
+        "13-55": "accordion"
     }
 }
