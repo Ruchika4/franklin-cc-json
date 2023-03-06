@@ -104,5 +104,17 @@
         "08-24": "cards",
         "09-31": "merchblock",
         "10-31": "iconblock"
+    },
+    "https://www.adobe.com/products/indesign.html": {
+        "00-32": "marquee",
+        "01-44": "text",
+        "02-44": "zpattern",
+        "03-44": "zpattern",
+        "04-44": "zpattern",
+        "05-45": "text",
+        "06-45": "cards",
+        "07-55": "merchblock",
+        "08-62": "iconblock",
+        "09-62": "accordion"
     }
 }
