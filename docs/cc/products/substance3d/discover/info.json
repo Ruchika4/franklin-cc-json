@@ -1,0 +1,40 @@
+{
+    "https://www.adobe.com/products/substance3d/discover/3d-in-architecture.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-in-automotive-transportation-design.html": {
+        "00-37": "cards"
+    },
+    "https://www.adobe.com/products/substance3d/discover/3d-in-cpg.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-in-fashion.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-in-film-vfx-animation.html": {
+        "00-60": "text"
+    },
+    "https://www.adobe.com/products/substance3d/discover/3d-in-games.html": {
+        "00-59": "longtext"
+    },
+    "https://www.adobe.com/products/substance3d/discover/3d-in-product-design.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-lighting.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-rendering.html": {},
+    "https://www.adobe.com/products/substance3d/discover/3d-texturing.html": {},
+    "https://www.adobe.com/products/substance3d/discover/hardware.html": {
+        "00-4": "longtext"
+    },
+    "https://www.adobe.com/products/substance3d/discover/industrial-designer.html": {},
+    "https://www.adobe.com/products/substance3d/discover/mixed-reality.html": {},
+    "https://www.adobe.com/products/substance3d/discover/pbr.html": {},
+    "https://www.adobe.com/products/substance3d/discover/virtual-photography.html": {},
+    "https://www.adobe.com/products/substance3d/discover/what-is-augmented-reality.html": {
+        "00-8": "text",
+        "01-10": "image",
+        "02-10": "text",
+        "03-10": "image",
+        "04-10": "text",
+        "05-10": "image",
+        "06-10": "text",
+        "07-10": "text",
+        "08-10": "longtext",
+        "09-10": "text",
+        "10-10": "cards",
+        "11-10": "text"
+    },
+    "https://www.adobe.com/products/substance3d/discover/what-is-vr.html": {}
+}
