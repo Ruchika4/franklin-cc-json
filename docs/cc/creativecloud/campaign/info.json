@@ -1,0 +1,13 @@
+{
+    "https://www.adobe.com/creativecloud/campaign/pricing.html": {
+        "00-13": "marquee",
+        "01-13": "marquee",
+        "02-22": "tabs",
+        "03-22": "aside",
+        "04-22": "cards",
+        "05-22": "accordion",
+        "06-22": "merchblock",
+        "07-29": "marquee",
+        "08-29": "iconblock"
+    }
+}

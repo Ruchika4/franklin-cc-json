@@ -1,0 +1,173 @@
+{
+    "https://www.adobe.com/creativecloud/libraries.html": {
+        "00-7": "marquee",
+        "01-76": "text",
+        "02-76": "spacer",
+        "03-76": "zpattern",
+        "04-76": "spacer",
+        "05-76": "zpattern",
+        "06-76": "spacer",
+        "07-76": "zpattern",
+        "08-76": "iconblock",
+        "09-76": "spacer",
+        "10-76": "zpattern",
+        "11-79": "cards",
+        "12-79": "zpattern",
+        "13-79": "aside",
+        "14-90": "iconlibrary",
+        "15-100": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/mobile-design-bundle.html": {
+        "00-4": "spacer",
+        "01-4": "marquee",
+        "02-4": "text",
+        "03-4": "iconlibrary",
+        "04-4": "text"
+    },
+    "https://www.adobe.com/creativecloud/pricing-info.html": {
+        "00-4": "marquee",
+        "01-13": "aside",
+        "02-13": "text",
+        "03-13": "text",
+        "04-13": "text",
+        "05-13": "text"
+    },
+    "https://www.adobe.com/creativecloud/promo-cci.html": {
+        "00-4": "text",
+        "01-4": "text",
+        "02-4": "cards",
+        "03-4": "text",
+        "04-4": "iconlibrary",
+        "05-4": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/starters.html": {
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "cards",
+        "03-4": "cards",
+        "04-4": "iconlibrary",
+        "05-4": "zpattern",
+        "06-4": "iconblock",
+        "07-4": "text"
+    },
+    "https://www.adobe.com/creativecloud/start-with-free-creativecloud.html": {
+        "00-4": "spacer",
+        "01-4": "text",
+        "02-4": "spacer",
+        "03-4": "image",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "aside",
+        "08-4": "cards"
+    },
+    "https://www.adobe.com/creativecloud/stock.html": {
+        "00-7": "marquee",
+        "01-76": "spacer",
+        "02-76": "zpattern",
+        "03-76": "spacer",
+        "04-76": "zpattern",
+        "05-76": "spacer",
+        "06-76": "zpattern",
+        "07-76": "cards",
+        "08-76": "zpattern",
+        "09-76": "zpattern",
+        "10-76": "zpattern"
+    },
+    "https://www.adobe.com/creativecloud/all-apps.html": {
+        "00-4": "marquee",
+        "01-25": "tabs",
+        "02-25": "zpattern",
+        "03-32": "zpattern",
+        "04-32": "zpattern",
+        "05-32": "zpattern",
+        "06-35": "cards",
+        "07-35": "carousel",
+        "08-42": "accordion",
+        "09-42": "merchblock",
+        "10-42": "iconblock",
+        "11-42": "gradientline"
+    },
+    "http://www.adobe.com/creativecloud/animation-software.html": {
+        "00-4": "marquee",
+        "01-11": "text",
+        "02-11": "spacer",
+        "03-11": "zpattern",
+        "04-11": "zpattern",
+        "05-11": "zpattern",
+        "06-11": "marquee",
+        "07-11": "cards",
+        "08-11": "merchblock",
+        "09-11": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/collaboration.html": {
+        "00-7": "marquee",
+        "01-64": "text",
+        "02-76": "text",
+        "03-76": "text",
+        "04-78": "spacer",
+        "05-78": "zpattern",
+        "06-80": "zpattern",
+        "07-82": "zpattern",
+        "08-84": "zpattern",
+        "09-87": "iconblock",
+        "10-87": "marquee",
+        "11-87": "cards",
+        "12-87": "iconblock",
+        "13-87": "text",
+        "14-87": "spacer",
+        "15-103": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/coming-soon.html": {
+        "00-0": "text"
+    },
+    "https://www.adobe.com/creativecloud/compare-plans.html": {
+        "00-4": "merchblock",
+        "01-4": "tabs",
+        "02-4": "text",
+        "03-4": "tabs",
+        "04-4": "text",
+        "05-4": "accordion",
+        "06-4": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/desktop-app.html": {
+        "00-4": "spacer",
+        "01-4": "text",
+        "02-4": "image",
+        "03-4": "text",
+        "04-4": "zpattern",
+        "05-4": "spacer"
+    },
+    "https://www.adobe.com/creativecloud/extensibility.html": {
+        "00-7": "marquee",
+        "01-76": "text",
+        "02-76": "spacer",
+        "03-76": "zpattern",
+        "04-76": "spacer",
+        "05-76": "zpattern",
+        "06-76": "spacer",
+        "07-76": "zpattern",
+        "08-88": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/features.html": {
+        "00-10": "merchblock",
+        "01-10": "merchblock",
+        "02-10": "image",
+        "03-10": "image",
+        "04-16": "gradientline",
+        "05-16": "tabs",
+        "06-16": "image",
+        "07-31": "tabs",
+        "08-42": "image",
+        "09-54": "cards",
+        "10-54": "merchblock",
+        "11-55": "tabs",
+        "12-55": "gradientline"
+    },
+    "https://www.adobe.com/creativecloud/fotolia.html": {
+        "00-4": "text",
+        "01-4": "text",
+        "02-4": "text",
+        "03-4": "image"
+    }
+}
