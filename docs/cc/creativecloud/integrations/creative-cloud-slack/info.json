@@ -1,0 +1,10 @@
+{
+    "https://www.adobe.com/creativecloud/integrations/creative-cloud-slack/error.html": {
+        "00-4": "spacer",
+        "01-7": "text",
+        "02-7": "text",
+        "03-7": "image",
+        "04-7": "button",
+        "05-7": "spacer"
+    }
+}

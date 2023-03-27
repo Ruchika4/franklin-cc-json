@@ -186,5 +186,15 @@
     },
     "https://www.adobe.com/creativecloud/creative-trends-thankyou.html ": {
         "00-0": "text"
+    },
+    "https://www.adobe.com/creativecloud/motion-solutions-guide-thank-you.html": {
+        "00-0": "text"
+    },
+    "https://www.adobe.com/creativecloud/motion-solutions-guide.html": {
+        "00-10": "text",
+        "01-10": "image",
+        "02-10": "text",
+        "03-10": "text",
+        "04-12": "form"
     }
 }

@@ -1,0 +1,28 @@
+{
+    "https://www.adobe.com/creativecloud/integrations/creative-cloud-microsoft-teams.html": {
+        "00-4": "spacer",
+        "01-4": "text",
+        "02-8": "image",
+        "03-11": "text",
+        "04-11": "spacer",
+        "05-11": "text",
+        "06-11": "button",
+        "07-11": "spacer"
+    },
+    "https://www.adobe.com/creativecloud/integrations/creative-cloud-slack.html": {
+        "00-4": "spacer",
+        "01-4": "text",
+        "02-12": "text",
+        "03-12": "spacer",
+        "04-12": "image",
+        "05-12": "text",
+        "06-12": "button",
+        "07-12": "spacer"
+    },
+    "https://www.adobe.com/creativecloud/integrations/xd-jira.html": {
+        "00-4": "spacer",
+        "01-4": "text",
+        "02-9": "text",
+        "03-9": "spacer"
+    }
+}
