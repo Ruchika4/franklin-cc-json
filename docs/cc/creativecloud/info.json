@@ -183,5 +183,8 @@
         "01-10": "text",
         "02-12": "form",
         "03-12": "hr"
+    },
+    "https://www.adobe.com/creativecloud/creative-trends-thankyou.html ": {
+        "00-0": "text"
     }
 }
