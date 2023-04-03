@@ -1,0 +1,105 @@
+{
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/ai-vs-eps.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/bmp-vs-jpeg.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards",
+        "05-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/bmp-vs-png.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/dng-vs-raw.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/dwg-vs-dxf.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/eps-vs-svg.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/heic-vs-jpeg.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-jpeg-2000.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-pdf.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-png.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards",
+        "05-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-raw.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-tiff.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/png-vs-svg.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards",
+        "05-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/raster-vs-vector.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/comparison/tiff-vs-png.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "https://www.adobe.com/creativecloud/renew/resubscribe-cci.html": {
+        "00-31": "text",
+        "01-31": "text",
+        "02-31": "cards",
+        "03-31": "text",
+        "04-31": "iconlibrary",
+        "05-31": "iconblock"
+    }
+}

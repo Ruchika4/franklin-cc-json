@@ -1,0 +1,116 @@
+{
+    "https://www.adobe.com/creativecloud/file-types/image/vector/3ds-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/3dxml-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/ai-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/collada-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/dwg-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/dxf-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/emf-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/eps-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/flt-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/iges-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/ps-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/skp-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/step-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/stl-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/svg-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "iconblock",
+        "04-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector/xvl-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "text",
+        "05-8": "cards",
+        "06-8": "iconblock"
+    }
+}

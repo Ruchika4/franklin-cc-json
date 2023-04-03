@@ -196,5 +196,8 @@
         "02-10": "text",
         "03-10": "text",
         "04-12": "form"
+    },
+    "https://www.adobe.com/creativecloud/renew.html": {
+        "00-0": "text"
     }
 }

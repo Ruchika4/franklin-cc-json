@@ -1,0 +1,9 @@
+{
+    "https://www.adobe.com/creativecloud/file-types/image/raw/dng-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "columncards",
+        "04-8": "iconblock"
+    }
+}

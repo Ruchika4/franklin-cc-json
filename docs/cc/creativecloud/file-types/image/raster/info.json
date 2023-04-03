@@ -1,0 +1,125 @@
+{
+    "https://www.adobe.com/creativecloud/file-types/image/raster/bmp-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/dpx-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/dwf-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/ecw-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/exif-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/gif-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/hdri-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/heic-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/jpeg-2000-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/jpeg-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/pcx-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/pgm-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "text",
+        "04-8": "cards",
+        "05-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/png-file.html": {
+        "00-4": "text",
+        "01-4": "iconblock",
+        "02-4": "cards",
+        "03-4": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/ppm-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/psd-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/tiff-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster/webp-file.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "cards",
+        "04-8": "merchblock"
+    }
+}

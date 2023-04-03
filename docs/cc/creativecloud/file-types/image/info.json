@@ -1,0 +1,28 @@
+{
+    "https://www.adobe.com/creativecloud/file-types/image/comparison.html": {
+        "00-8": "text",
+        "01-8": "longtext",
+        "02-8": "text",
+        "03-8": "spacer",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raster.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text",
+        "03-8": "spacer",
+        "04-8": "merchblock"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/raw.html": {
+        "00-8": "text",
+        "01-8": "image",
+        "02-8": "text"
+    },
+    "https://www.adobe.com/creativecloud/file-types/image/vector.html": {
+        "00-8": "text",
+        "01-8": "longtext",
+        "02-8": "text",
+        "03-8": "spacer",
+        "04-8": "iconblock"
+    }
+}
