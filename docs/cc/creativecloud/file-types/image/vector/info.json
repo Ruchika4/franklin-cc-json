@@ -4,7 +4,7 @@
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/vector/3dxml-file.html": {
         "00-8": "text",
@@ -29,14 +29,14 @@
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/vector/dxf-file.html": {
         "00-8": "text",
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/vector/emf-file.html": {
         "00-8": "text",
@@ -44,7 +44,7 @@
         "02-8": "text",
         "03-8": "text",
         "04-8": "cards",
-        "05-8": "iconblock"
+        "05-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/vector/eps-file.html": {
         "00-8": "text",
@@ -82,7 +82,7 @@
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/vector/step-file.html": {
         "00-8": "text",
@@ -111,6 +111,6 @@
         "03-8": "text",
         "04-8": "text",
         "05-8": "cards",
-        "06-8": "iconblock"
+        "06-8": "text"
     }
 }
