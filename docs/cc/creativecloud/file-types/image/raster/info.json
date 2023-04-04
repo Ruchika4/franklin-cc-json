@@ -19,7 +19,7 @@
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/raster/ecw-file.html": {
         "00-8": "text",
@@ -86,7 +86,7 @@
         "02-8": "text",
         "03-8": "text",
         "04-8": "cards",
-        "05-8": "iconblock"
+        "05-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/raster/png-file.html": {
         "00-4": "text",
@@ -113,7 +113,7 @@
         "01-8": "image",
         "02-8": "text",
         "03-8": "cards",
-        "04-8": "iconblock"
+        "04-8": "text"
     },
     "https://www.adobe.com/creativecloud/file-types/image/raster/webp-file.html": {
         "00-8": "text",
