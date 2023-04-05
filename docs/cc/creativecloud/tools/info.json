@@ -1,18 +1,32 @@
 {
-    "https://www.adobe.com/creativecloud/tools/2d-animation-software.html": {
-        "00-4": "spacer",
-        "01-4": "longtext",
-        "02-4": "longtext",
-        "03-4": "longtext",
-        "04-4": "longtext",
-        "05-4": "longtext",
-        "06-4": "longtext",
-        "07-4": "longtext",
-        "08-4": "longtext",
-        "09-4": "text",
-        "10-4": "table",
-        "11-4": "cards",
-        "12-4": "text",
-        "13-4": "iconlibrary"
+    "https://www.adobe.com/creativecloud/tools/brochure-design-software.html": {
+        "00-4": "textmarquee",
+        "01-4": "ztilecontent",
+        "02-4": "collibrary",
+        "03-4": "ztilecontent",
+        "04-4": "collibrary",
+        "05-4": "promocols",
+        "06-4": "text",
+        "07-4": "table",
+        "08-4": "spacer",
+        "09-4": "cards",
+        "10-4": "text",
+        "11-4": "planndpricing",
+        "12-4": "iconblock"
+    },
+    "https://www.adobe.com/creativecloud/tools/business-card-design-software.html": {
+        "00-4": "textmarquee",
+        "01-4": "ztilecontent",
+        "02-4": "collibrary",
+        "03-4": "ztilecontent",
+        "04-4": "collibrary",
+        "05-4": "promocols",
+        "06-4": "text",
+        "07-4": "table",
+        "08-4": "spacer",
+        "09-4": "cards",
+        "10-4": "text",
+        "11-4": "planndpricing",
+        "12-4": "iconblock"
     }
 }
