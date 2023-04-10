@@ -119,22 +119,13 @@
     },
     "https://www.adobe.com/products/substance3d-designer.html": {
         "00-4": "marquee",
-        "01-4": "aside",
-        "02-4": "text",
+        "01-4": "longtext",
+        "02-4": "zpattern",
         "03-4": "marquee",
-        "04-4": "zpattern",
-        "05-5": "zpattern",
-        "06-5": "zpattern",
-        "07-5": "zpattern",
-        "08-5": "gradientline",
-        "09-5": "marquee",
-        "10-5": "text",
-        "11-5": "iconlibrary",
-        "12-8": "cards",
-        "13-8": "masonry",
-        "14-19": "merchblock",
-        "15-19": "cards",
-        "16-19": "gradientline"
+        "04-4": "iconlibrary",
+        "05-15": "merchblock",
+        "06-15": "iconlibrary",
+        "07-15": "accordion"
     },
     "https://www.adobe.com/products/substance3d-modeler.html": {
         "00-4": "marquee",
