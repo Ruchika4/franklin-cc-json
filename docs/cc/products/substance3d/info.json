@@ -59,20 +59,13 @@
     },
     "https://www.adobe.com/products/substance3d/collection-for-teams.html": {
         "00-4": "marquee",
-        "01-4": "marquee",
-        "02-13": "text",
-        "03-13": "spacer",
-        "04-13": "marquee",
-        "05-13": "spacer",
-        "06-13": "cards",
-        "07-13": "spacer",
-        "08-13": "accordion",
-        "09-13": "image",
-        "10-13": "marquee",
-        "11-13": "iconblock",
-        "12-13": "iconlibrary",
-        "13-13": "gradientline",
-        "14-13": "text"
+        "01-4": "zpattern",
+        "02-4": "marquee",
+        "03-4": "text",
+        "04-4": "aside",
+        "05-4": "iconlibrary",
+        "06-4": "gradientline",
+        "07-4": "text"
     },
     "https://www.adobe.com/products/substance3d/compare-plans.html": {
         "00-7": "text",
