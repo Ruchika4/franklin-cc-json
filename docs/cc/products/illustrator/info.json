@@ -38,7 +38,7 @@
         "12-40": "accordion",
         "13-40": "spacer",
         "14-40": "collibrary",
-        "15-40": "iconblock"
+        "15-40": "text"
     },
     "https://www.adobe.com/products/illustrator/free-trial-teams.html": {
         "00-4": "cards",
@@ -46,13 +46,13 @@
         "02-4": "iconlibrary",
         "03-6": "accordion"
     },
-    "https://www.adobe.com/products/illustrator/icon-design.html ": {
+    "https://www.adobe.com/products/illustrator/icon-design.html": {
         "00-6": "marquee",
         "01-6": "text",
         "02-6": "zpattern",
         "03-6": "howto",
-        "04-6": "iconblock",
-        "05-6": "collibrary",
+        "04-6": "text",
+        "05-6": "cards",
         "06-6": "cards",
         "07-6": "spacer",
         "08-6": "merchblock"
@@ -61,10 +61,10 @@
         "00-6": "marquee",
         "01-6": "text",
         "02-6": "zpattern",
-        "03-6": "collibrary",
+        "03-6": "cards",
         "04-6": "spacer",
-        "05-6": "iconblock",
-        "06-6": "collibrary",
+        "05-6": "text",
+        "06-6": "cards",
         "07-6": "cards",
         "08-6": "spacer",
         "09-6": "merchblock"
@@ -88,11 +88,11 @@
         "00-6": "marquee",
         "01-6": "text",
         "02-6": "zpattern",
-        "03-6": "collibrary",
+        "03-6": "cards",
         "04-6": "spacer",
         "05-6": "howto",
-        "06-6": "iconblock",
-        "07-6": "collibrary",
+        "06-6": "text",
+        "07-6": "cards",
         "08-6": "spacer",
         "09-6": "merchblock"
     },
@@ -103,13 +103,13 @@
         "03-6": "iconlibrary",
         "04-6": "spacer",
         "05-6": "howto",
-        "06-6": "iconblock",
-        "07-6": "collibrary",
+        "06-6": "text",
+        "07-6": "cards",
         "08-6": "cards",
         "09-6": "spacer",
         "10-6": "merchblock"
     },
-    "https://www.adobe.com/products/illustrator/plans.html ": {
+    "https://www.adobe.com/products/illustrator/plans.html": {
         "00-6": "text"
     },
     "https://www.adobe.com/products/illustrator/pricing-info.html ": {
@@ -119,27 +119,27 @@
         "03-13": "text",
         "04-13": "text"
     },
-    "https://www.adobe.com/products/illustrator/typography-font-design.html ": {
+    "https://www.adobe.com/products/illustrator/typography-font-design.html": {
         "00-6": "marquee",
         "01-6": "text",
         "02-6": "zpattern",
-        "03-6": "collibrary",
+        "03-6": "cards",
         "04-6": "spacer",
         "05-6": "howto",
-        "06-6": "iconblock",
-        "07-6": "collibrary",
+        "06-6": "text",
+        "07-6": "cards",
         "08-6": "spacer",
         "09-6": "merchblock"
     },
-    "https://www.adobe.com/products/illustrator/wallpaper-maker.html ": {
+    "https://www.adobe.com/products/illustrator/wallpaper-maker.html": {
         "00-6": "marquee",
         "01-6": "text",
         "02-6": "zpattern",
-        "03-6": "collibrary",
+        "03-6": "cards",
         "04-6": "spacer",
         "05-6": "howto",
-        "06-6": "iconblock",
-        "07-6": "collibrary",
+        "06-6": "text",
+        "07-6": "cards",
         "08-6": "spacer",
         "09-6": "merchblock"
     }
