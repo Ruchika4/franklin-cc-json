@@ -1,0 +1,58 @@
+{
+    "https://www.adobe.com/products/premiere/color-correction.html": {
+        "00-6": "marquee",
+        "01-6": "longtext",
+        "02-6": "accordion",
+        "03-6": "longtext",
+        "04-6": "zpattern",
+        "05-6": "text",
+        "06-6": "text",
+        "07-6": "spacer",
+        "08-6": "merchblock"
+    },
+    "https://www.adobe.com/products/premiere/edit-audio.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "zpattern",
+        "03-4": "zpattern",
+        "04-4": "zpattern",
+        "05-4": "spacer",
+        "06-4": "cards",
+        "07-6": "marquee",
+        "08-6": "spacer"
+    },
+    "https://www.adobe.com/products/premiere/explore.html": {
+        "00-10": "marquee",
+        "01-10": "longtext",
+        "02-10": "marquee",
+        "03-10": "cards",
+        "04-10": "zpattern",
+        "05-10": "marquee",
+        "06-10": "accordion",
+        "07-14": "spacer"
+    },
+    "https://www.adobe.com/products/premiere/free-trial-download.html": {
+        "00-34": "marquee",
+        "01-34": "aside",
+        "02-34": "text",
+        "03-34": "spacer",
+        "04-40": "text",
+        "05-40": "text",
+        "06-40": "spacer",
+        "07-40": "text",
+        "08-40": "text",
+        "09-40": "spacer",
+        "10-40": "collibrary",
+        "11-40": "spacer",
+        "12-40": "accordion",
+        "13-40": "spacer",
+        "14-40": "collibrary",
+        "15-40": "longtext"
+    },
+    "https://www.adobe.com/products/premiere/free-trial-teams.html": {
+        "00-4": "cards",
+        "01-4": "tabs",
+        "02-4": "text",
+        "03-6": "accordion"
+    }
+}
