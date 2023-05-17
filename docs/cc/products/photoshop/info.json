@@ -201,5 +201,37 @@
         "07-6": "iconblock",
         "08-6": "cards",
         "09-6": "merchblock"
+    },
+    "https://www.adobe.com/products/photoshop/colorize.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "zpattern",
+        "03-4": "marquee",
+        "04-4": "iconblock"
+    },
+    "https://www.adobe.com/products/photoshop/combine-layer-images.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "zpattern",
+        "03-4": "marquee",
+        "04-4": "iconblock"
+    },
+    "https://www.adobe.com/products/photoshop/compare-plans.html": {
+        "00-6": "text",
+        "01-6": "marquee",
+        "02-6": "spacer",
+        "03-6": "cards",
+        "04-6": "spacer",
+        "05-6": "collibrary",
+        "06-6": "spacer",
+        "07-6": "accordion",
+        "08-6": "spacer"
+    },
+    "https://www.adobe.com/products/photoshop/content-aware-fill.html": {
+        "00-4": "marquee",
+        "01-4": "text",
+        "02-4": "zpattern",
+        "03-4": "marquee",
+        "04-4": "iconblock"
     }
 }
