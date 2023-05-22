@@ -1,57 +1,98 @@
 {
     "https://www.adobe.com/creativecloud/file-types/image/comparison/ai-vs-eps.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards",
-        "04-8": "text"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/bmp-vs-jpeg.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "iconblock",
-        "04-8": "cards",
-        "05-8": "merchblock"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "text",
+        "08-4": "spacer",
+        "09-4": "spacer",
+        "10-4": "spacer",
+        "11-4": "cards"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/bmp-vs-png.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards",
-        "04-8": "merchblock"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer",
+        "09-4": "cards"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/dng-vs-raw.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards",
-        "04-8": "merchblock"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer",
+        "09-4": "cards"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/dwg-vs-dxf.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/eps-vs-svg.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards",
-        "04-8": "text"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/heic-vs-jpeg.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer",
+        "09-4": "cards"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-jpeg-2000.html": {
-        "00-8": "text",
-        "01-8": "image",
-        "02-8": "text",
-        "03-8": "cards"
+        "00-4": "marquee",
+        "01-4": "aside",
+        "02-4": "text",
+        "03-4": "text",
+        "04-4": "spacer",
+        "05-4": "text",
+        "06-4": "spacer",
+        "07-4": "spacer",
+        "08-4": "spacer",
+        "09-4": "cards"
     },
     "https://www.adobe.com/creativecloud/file-types/image/comparison/jpeg-vs-pdf.html": {
         "00-8": "text",
