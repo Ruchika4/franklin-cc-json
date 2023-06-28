@@ -1,7 +1,7 @@
 {
     "https://www.adobe.com/creativecloud/animation/discover/animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "spacer",
         "03-6": "longtext",
         "04-6": "spacer",
@@ -19,7 +19,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/animation-key-poses.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "spacer",
         "03-6": "text",
         "04-6": "spacer",
@@ -35,7 +35,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/animation-walk-cycle.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "spacer",
         "03-6": "text",
         "04-6": "text",
@@ -53,7 +53,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/cel-animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "text",
         "03-6": "text",
         "04-6": "text",
@@ -67,7 +67,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/claymation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "spacer",
         "03-6": "text",
         "04-6": "image",
@@ -87,7 +87,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/morphing-in-animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "text",
         "03-6": "text",
         "04-6": "text",
@@ -96,7 +96,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/principles-of-animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "text",
         "03-6": "text",
         "04-6": "text",
@@ -110,7 +110,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/stop-motion-animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "text",
         "03-6": "spacer",
         "04-6": "text",
@@ -125,7 +125,7 @@
     },
     "https://www.adobe.com/creativecloud/animation/discover/zoetrope-animation.html": {
         "00-6": "marquee",
-        "01-6": "column",
+        "01-6": "jumptosection",
         "02-6": "text",
         "03-6": "spacer",
         "04-6": "text",
