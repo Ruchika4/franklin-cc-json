@@ -142,5 +142,16 @@
         "07-6": "cards",
         "08-6": "spacer",
         "09-6": "merchblock"
+    },
+    "https://www.adobe.com/products/illustrator/free-trial.html": {
+        "00-13": "spacer",
+        "01-86": "spacer",
+        "02-86": "zpattern",
+        "03-86": "spacer",
+        "04-86": "zpattern",
+        "05-89": "spacer",
+        "06-89": "accordion",
+        "07-89": "accordion",
+        "08-89": "spacer"
     }
 }
